@@ -1,0 +1,2 @@
+# Weather
+External weather data is used to predict the temperature and humidity levels over the next minutes/months. Data is collected from an external API and formatted in a csv file so that it can be easily streamed.
